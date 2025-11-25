@@ -1,0 +1,6 @@
+order_id,customer_id,amount,category
+101,1,500,Electronics
+102,2,,Grocery
+103,1,700,Electronics
+104,3,300,Grocery
+105,2,450,Grocery

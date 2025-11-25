@@ -1,0 +1,6 @@
+order_id,customer_id,amount,category,customer_name,city
+103,1,700.0,Electronics,Ram,Bangalore
+101,1,500.0,Electronics,Ram,Bangalore
+105,2,450.0,Grocery,Priya,Chennai
+104,3,300.0,Grocery,John,Mumbai
+102,2,0.0,Grocery,Priya,Chennai
